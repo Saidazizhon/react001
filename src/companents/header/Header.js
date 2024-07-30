@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./Header.css";
-import { FiAlignLeft } from "react-icons/fi";
+import { GiHamburgerMenu } from "react-icons/gi";
 import navlogo from "../../assetes/Screenshot_3 [Recovered] 1.png"
 
 function Header() {
@@ -32,7 +32,7 @@ function Header() {
                     </div>
                 
                 <div onClick={toggleMenu} className="navbar__menu">
-                    <FiAlignLeft />
+                <GiHamburgerMenu />
                 </div>
             </nav>
         </div>

@@ -83,7 +83,7 @@ function Footer (){
                 </div>
                 <hr />
                 <p className="footer__theme">
-                Copyright @ 2020 Brandoxide.all right reserved.
+                Saidazizhon @ 2020 Brandoxide.all right reserved.
                 </p>
             </div>
         </div>
