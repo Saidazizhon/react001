@@ -21,8 +21,8 @@ function From (){
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                         incididunt ut labore et dolore magna aliqua.
                         </p>
-                        <button className="from__btr">
-                        CONTINUE READING....
+                        <button class="btn from__btr">
+                            CONTINUE READING....
                         </button>
                     </div>
                 </div>
@@ -38,8 +38,8 @@ function From (){
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                         incididunt ut labore et dolore magna aliqua.
                         </p>
-                        <button className="from__btr">
-                        CONTINUE READING....
+                        <button class="btn from__btr">
+                            CONTINUE READING....
                         </button>
                     </div>
                 </div>

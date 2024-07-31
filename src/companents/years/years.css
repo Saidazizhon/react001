@@ -30,14 +30,32 @@
 }
 
 .years__more {
-    padding: 10px 0 10px 0;
-    width: 143px;
-    font-size: 16px;
-    color: #fff;
-    border-radius: 20px 0 20px 0;
-    border: none;
-    background: #37806B;
-    cursor: pointer;
+    .btn {
+        transition: all 0.3s ease-in-out;
+        font-family: "Dosis", sans-serif;
+      }
+      
+      .btn {
+        width: 150px;
+        height: 60px;
+        border-radius: 50px;
+        background-image: linear-gradient(135deg, #feb692 0%, #ea5455 100%);
+        box-shadow: 0 20px 30px -6px rgba(238, 103, 97, 0.5);
+        outline: none;
+        cursor: pointer;
+        border: none;
+        font-size: 24px;
+        color: white;
+      }
+      
+      .btn:hover {
+        transform: translateY(3px);
+        box-shadow: none;
+      }
+      
+      .btn:active {
+        opacity: 0.5;
+      }
 }
 
 @media (max-width:1200px) {

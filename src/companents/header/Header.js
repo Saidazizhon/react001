@@ -28,7 +28,7 @@ function Header() {
                     </ul>
                     </div>
                     <div className="navbar__btr">
-                        <button className="navbar__button">Sign Up</button>
+                        <button class="btn navbar__button">Sign up</button>
                     </div>
                 
                 <div onClick={toggleMenu} className="navbar__menu">

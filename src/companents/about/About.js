@@ -20,7 +20,7 @@ function About() {
                         All the Lorem Ipsum generators on the Internettend to repeat
                         predefined chunks as necessary,making this the first true
                         generator on the Internet.</p>
-                    <button className="about__btr">LEARN MORE</button>
+                    <button class="btn about__btr">LEARN MORE</button>
                 </div>
             </div>
         </div>

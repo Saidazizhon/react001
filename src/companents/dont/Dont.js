@@ -18,7 +18,7 @@ function Dont() {
                 </div>
                 <div className="dont__inp">
                     <input className="inp" type="text" placeholder="Enter your email address....." />
-                    <button className="button">SUBSCRIBE</button>
+                    <button class="btn button">SUBSCRIBE</button>
                 </div>
             </div>
         </div>

@@ -11,7 +11,7 @@ function Years() {
                     <p className="years__p">Years Of Successful
                         Working
                         The Market</p>
-                    <button className="years__more">Read More</button>
+                    <button class="btn years__more">Read More</button>
                 </div>
                 <div className="years__img">
                     <img src={yersfoto} alt="" />
